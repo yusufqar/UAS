@@ -1,4 +1,5 @@
 Fitur – Fitur pada fungsi php
+
 InputOrderPage.php = disini adalah laman dimana user akan memasukan data pemesanan, setelah dilakukan submit maka akan diteruskan ke addOrderPage.php sehingga data yang sudah dimasukan kedalam form akan disimpan di database
 ShowOrderQuery.php = disini akan ditampilkan semua data pesanan yang ada di database dengan menggunakan query select
 EditOrderQuery.php = fungsinya untuk merubah data pesanan yang sudah disimpan pada database sebelumnya dengan menggunakan query update
