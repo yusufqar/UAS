@@ -1,4 +1,4 @@
-UAS - 06TPLM001 - KELOMPOK 5 - 181011400139 - Muhammad Yusuf Qardhawi
+# UAS - 06TPLM001 - KELOMPOK 5 - 181011400139 - Muhammad Yusuf Qardhawi
 Repository Untuk Jawaban UAS Mata Kuliah Pemrograman Web 2 Pada Kelas 06TPLM001
 
 Aplikasi ini merupakan aplikasi pendataan pemesanan makanan berbasis web yang dikembangkan dengan menggunakan beberapa bahasa, yakni html, css, PHP, serta JavaScript. Adapun tujuan pembuatan aplikasi ini ialah sebagai pemenuh kewajiban akhir mahasiswa terhadap aktivitas Ujian Akhir Semester Genap 2020 / 2021.
